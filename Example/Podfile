@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AWGeometry_Tests' do
+  pod 'AWGeometry', :path => '../'
+  
+  
+end
