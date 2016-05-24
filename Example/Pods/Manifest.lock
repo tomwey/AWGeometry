@@ -1,0 +1,16 @@
+PODS:
+  - AWGeometry (0.1.0)
+
+DEPENDENCIES:
+  - AWGeometry (from `../`)
+
+EXTERNAL SOURCES:
+  AWGeometry:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AWGeometry: df89b11fd25fb75b12c0ee86fe01952a57f68bf0
+
+PODFILE CHECKSUM: 805d6197f51e1f75664ab00ded42dd9750165639
+
+COCOAPODS: 1.0.0

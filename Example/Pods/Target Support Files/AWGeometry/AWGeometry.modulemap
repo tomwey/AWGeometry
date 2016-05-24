@@ -1,0 +1,6 @@
+framework module AWGeometry {
+  umbrella header "AWGeometry-umbrella.h"
+
+  export *
+  module * { export * }
+}
