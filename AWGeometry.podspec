@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AWGeometry'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AWGeometry.'
+  s.summary          = 'UIView位置大小扩展'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'AWGeometry' => ['AWGeometry/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
